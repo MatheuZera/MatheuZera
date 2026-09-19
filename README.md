@@ -1,16 +1,19 @@
-## Hi there 👋
+### Olá, eu sou o Matheus! 👋
 
-<!--
-**MatheuZera/MatheuZera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor e criador de projetos focados em web, automação e ferramentas criativas. 
 
-Here are some ideas to get you started:
+- 💻 Atualmente focado em desenvolvimento web, React, TypeScript e Python.
+- 🎨 Atuando como Lead Developer & UI Designer.
+- 🚀 Explorando novas ideias com automações e criação de ferramentas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** JavaScript, TypeScript, Python, HTML5, CSS3
+- **Frameworks & Bibliotecas:** React, Vite, Tailwind CSS, Electron, Three.js
+- **Sistemas:** Linux Mint & Windows 11
+
+---
+
+### 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheuZera&show_icons=true&theme=tokyonight)
