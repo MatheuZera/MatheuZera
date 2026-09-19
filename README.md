@@ -5,24 +5,28 @@
 
 <!-- LOGO DO PROJETO E REDES SOCIAIS -->
 <br />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=WELCOME!&fontSize=50&fontAlignY=35&desc=(MatheuZera)&descAlignY=55&descAlign=50" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=WELCOME!&fontSize=50&fontAlignY=35&desc=(MatheuZera)&descAlignY=55&descAlign=50"
+  width="100%" />
 <div align="center">
   <a href="https://github.com/MatheuZera/nome_do_repo">
-    <img src="https://imgs.search.brave.com/VRQxJ2F-I6iOrLkwk9W1BD9dnQijwg8vDQoUB026otI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93MC5w/ZWFrcHguY29tL3dh/bGxwYXBlci8xMjIv/NTM4L0hELXdhbGxw/YXBlci1jdXRlLWZv/eC1taW5lY3JhZnQt/ZGVzaWducy1taW5l/Y3JhZnQtbWluZWNy/YWZ0LW1pbmVjcmFm/dC1hbmltYWxzLXRo/dW1ibmFpbC5qcGc" alt="Logo" width="1000" height="300">
+    <img
+      src="https://imgs.search.brave.com/VRQxJ2F-I6iOrLkwk9W1BD9dnQijwg8vDQoUB026otI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93MC5w/ZWFrcHguY29tL3dh/bGxwYXBlci8xMjIv/NTM4L0hELXdhbGxw/YXBlci1jdXRlLWZv/eC1taW5lY3JhZnQt/ZGVzaWducy1taW5l/Y3JhZnQtbWluZWNy/YWZ0LW1pbmVjcmFm/dC1hbmltYWxzLXRo/dW1ibmFpbC5qcGc"
+      alt="Logo" width="1000" height="300">
   </a>
 
 
 
-<!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
+  <!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
 
-## SEJA BEM VINDO(A) AO MEU PERFIL DO GITHUB!
-<!-- PROJECT LOGO -->
-<div align="center">
-  <a href="https://discord.com/users/#">
-  <img src="https://cdn.discordapp.com/avatars/771887741678911508/6f7e7d749026094b4ae01449420a0454.png?size=128" alt="Avatar do Discord" width="100" height="100" style="border-radius: 50%;"></a>
-
-  <h3 align="center">@MatheuZera / Brazil</h3>
-</div>
+  ## SEJA BEM VINDO(A) AO MEU PERFIL DO GITHUB!
+  <!-- PROJECT LOGO -->
+  <div align="center">
+    <a href="https://discord.com/users/#">
+      <img src="https://cdn.discordapp.com/avatars/771887741678911508/6f7e7d749026094b4ae01449420a0454.png?size=128"
+        alt="Avatar do Discord" width="100" height="100" style="border-radius: 50%;"></a>
+    <h3 align="center">@MatheuZera / Brazil</h3>
+  </div>
 
   <p align="center">
     <a href="https://github.com/MatheuZera/nome_do_repo"><strong>Explore a Documentação »</strong></a>
@@ -34,24 +38,38 @@
     <a href="https://github.com/MatheuZera/nome_do_repo/issues">Solicitar Funcionalidade</a>
   </p>
 
-<!-- ÍCONES DE REDES SOCIAIS -->
-  <p align="center">
-    <a href="https://github.com/MatheuZera" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://youtube.com/@seu_canal" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
-    </a>
-    <a href="https://twitch.tv/seu_canal" target="_blank">
-      <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch">
-    </a>
-    <a href="https://discord.gg/seu_servidor" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
-    <a href="mailto:seu_email@email.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
+  <!-- ÍCONES DE REDES SOCIAIS -->
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Rafa-HTML" height="30" width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Rafa-CSS" height="30" width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-Js" height="30" width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </div>
+  
+  <br>
+
+  <div>
+    <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img
+        src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+        target="_blank"></a>
+    <a href="https://instagram.com/rafaballerini" target="_blank"><img
+        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        target="_blank"></a>
+    <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img
+        src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
+        target="_blank"></a>
+    <a href="https://discord.gg/wagxzStdcR" target="_blank"><img
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+        target="_blank"></a>
+    <a href="mailto:contatorafaballerini@gmail.com"><img
+        src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        target="_blank"></a>
+    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img
+        src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"
+        target="_blank"></a>
+  </div>
 </div>
 
 <!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
@@ -161,14 +179,18 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I
+created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I
+think this is it.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should implement DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people who have contributed to expanding this template!
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near
+future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all
+the people who have contributed to expanding this template!
 
 Use the `BLANK_README.md` to get started.
 
@@ -178,7 +200,8 @@ Use the `BLANK_README.md` to get started.
 
 ## Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for
+the acknowledgements section. Here are a few examples.
 
 * [![HTML5][HTML5.com]][HTML5-url]
 * [![CSS3][CSS3.com]][CSS3-url]
@@ -198,32 +221,33 @@ To get a local copy up and running follow these simple example steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
-  ```sh
-  npm install npm@latest -g
-  ```
+```sh
+npm install npm@latest -g
+```
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't
+rely on any external dependencies or services._
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
+```sh
+git clone https://github.com/github_username/repo_name.git
+```
 3. Install NPM packages
-   ```sh
-   npm install
-   ```
+```sh
+npm install
+```
 4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+```js
+const API_KEY = 'ENTER YOUR API';
+```
 5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
+```sh
+git remote set-url origin github_username/repo_name
+git remote -v # confirm the changes
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -232,7 +256,8 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos
+work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -248,10 +273,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
 - [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [ ] Chinese
+- [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features
+(and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -260,9 +286,11 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any
+contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also
+simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
@@ -313,7 +341,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites
+to kick things off!
 
 * [HELP](#)
 
@@ -324,7 +353,8 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]:
+https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
@@ -352,10 +382,11 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
 [HTML5.com]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
-[CSS3.com]: https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEuNSAwaDIxbC0xLjkxIDIxLjU2M0wxMiAyNGwtOC41Ni0yLjQzOEwxLjUgMHptMTcuMDkgNC4xMUgzLjQxbC44MyA5LjQxTDEyIDE3LjQ2bDcuNzUtMy45NC4xNi0xLjg1aC01LjE5bC0uMDguOWgtMi42NEwxMiAxNC4yOWwtMy44Ny0xLjk0LS4xNS0xLjY4aDEwLjc5bC4yMi0yLjUzSDcuNThsLS4xNC0xLjVoOS43N2wuMjMtMi41M3oiLz48L3N2Zz4=
+[CSS3.com]:
+https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEuNSAwaDIxbC0xLjkxIDIxLjU2M0wxMiAyNGwtOC41Ni0yLjQzOEwxLjUgMHptMTcuMDkgNC4xMUgzLjQxbC44MyA5LjQxTDEyIDE3LjQ2bDcuNzUtMy45NC4xNi0xLjg1aC01LjE5bC0uMDguOWgtMi42NEwxMiAxNC4yOWwtMy44Ny0xLjk0LS4xNS0xLjY4aDEwLjc5bC4yMi0yLjUzSDcuNThsLS4xNC0xLjVoOS43N2wuMjMtMi41M3oiLz48L3N2Zz4=
 [CSS3-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
 [JavaScript.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JavaScript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
