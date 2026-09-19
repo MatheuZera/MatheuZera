@@ -1,60 +1,64 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
+<!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
+<!-- LOGO DO PROJETO E REDES SOCIAIS -->
 <br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=WELCOME!&fontSize=50&fontAlignY=35&desc=(MatheuZera)&descAlignY=55&descAlign=50" width="100%" />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/MatheuZera/nome_do_repo">
+    <img src="https://imgs.search.brave.com/VRQxJ2F-I6iOrLkwk9W1BD9dnQijwg8vDQoUB026otI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93MC5w/ZWFrcHguY29tL3dh/bGxwYXBlci8xMjIv/NTM4L0hELXdhbGxw/YXBlci1jdXRlLWZv/eC1taW5lY3JhZnQt/ZGVzaWducy1taW5l/Y3JhZnQtbWluZWNy/YWZ0LW1pbmVjcmFm/dC1hbmltYWxzLXRo/dW1ibmFpbC5qcGc" alt="Logo" width="1000" height="300">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+
+
+<!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
+
+## SEJA BEM VINDO(A) AO MEU PERFIL DO GITHUB!
+<!-- PROJECT LOGO -->
+<div align="center">
+  <a href="https://discord.com/users/#">
+  <img src="https://cdn.discordapp.com/avatars/771887741678911508/6f7e7d749026094b4ae01449420a0454.png?size=128" alt="Avatar do Discord" width="100" height="100" style="border-radius: 50%;"></a>
+
+  <h3 align="center">@MatheuZera / Brazil</h3>
+</div>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/MatheuZera/nome_do_repo"><strong>Explore a Documentação »</strong></a>
+    <br>
+    <a href="https://github.com/MatheuZera/nome_do_repo">Ver Demonstração</a>
+    ·
+    <a href="https://github.com/MatheuZera/nome_do_repo/issues">Reportar Bugs</a>
+    ·
+    <a href="https://github.com/MatheuZera/nome_do_repo/issues">Solicitar Funcionalidade</a>
+  </p>
+
+<!-- ÍCONES DE REDES SOCIAIS -->
+  <p align="center">
+    <a href="https://github.com/MatheuZera" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://youtube.com/@seu_canal" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+    </a>
+    <a href="https://twitch.tv/seu_canal" target="_blank">
+      <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch">
+    </a>
+    <a href="https://discord.gg/seu_servidor" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="mailto:seu_email@email.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
   </p>
 </div>
 
-
-
+<!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
+## Todos os Meus Projetos
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>ZERA'S CRAFT</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -62,23 +66,95 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
+<details>
+  <summary>CRAFT WORLD</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
 
+<details>
+  <summary>MARKETPLACE CRAFT</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+<details>
+  <summary>PIXEL CRAFT</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+<details>
+  <summary>CRAFT TABLE</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+<details>
+  <summary>WIKIPEDIA CRAFT</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+## Todos os Projetos que Participei
+<details>
+  <summary>ASION STUDIOS</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+<details>
+  <summary>KAGEBORN STUDIOS</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+<!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -98,24 +174,19 @@ Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
 
-
-### Built With
+## Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![HTML5][HTML5.com]][HTML5-url]
+* [![CSS3][CSS3.com]][CSS3-url]
+* [![JavaScript][JavaScript.com]][JavaScript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -156,7 +227,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -167,7 +238,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -184,7 +255,7 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -200,15 +271,24 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-### Top contributors:
-
+### Top contributors Zera's Craft:
 <a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
+  <img src="https://contrib.rocks/image?repo=matheuzera/ZerasCraft" />
+</a>
+
+### Top contributors Marketplace Craft:
+<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=matheuzera/Marketplace-Hub" />
+</a>
+
+### Top contributors World Craft:
+<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=matheuzera/Marketplace-Hub" />
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
 
 <!-- LICENSE -->
 ## License
@@ -217,7 +297,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
 
 <!-- CONTACT -->
 ## Contact
@@ -228,25 +308,19 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [HELP](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-------------- DIVISÓRIA DE CONTEÚDO MARKDOWN (.md) -------------->
+<!------------------ FOOTER GLOBAL DO MARKDOWN --------------------->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -279,3 +353,12 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[HTML5.com]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML5-url]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
+[CSS3.com]: https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEuNSAwaDIxbC0xLjkxIDIxLjU2M0wxMiAyNGwtOC41Ni0yLjQzOEwxLjUgMHptMTcuMDkgNC4xMUgzLjQxbC44MyA5LjQxTDEyIDE3LjQ2bDcuNzUtMy45NC4xNi0xLjg1aC01LjE5bC0uMDguOWgtMi42NEwxMiAxNC4yOWwtMy44Ny0xLjk0LS4xNS0xLjY4aDEwLjc5bC4yMi0yLjUzSDcuNThsLS4xNC0xLjVoOS43N2wuMjMtMi41M3oiLz48L3N2Zz4=
+[CSS3-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+[JavaScript.com]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[JavaScript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+
+<!-- Melhoria na compatibilidade do link para o topo: Veja: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a id="readme-top"></a>
